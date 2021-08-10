@@ -1,4 +1,8 @@
 #### 1) Download [model weights](https://drive.google.com/file/d/1Hu1rmAB7rdxQ4wB6kTgCLs7qViGELG-j/view?usp=sharing) and unzip.
+#### 2) Install all dependences from requirements
+```
+pip install -r requirements.txt
+```
 #### 2) Run making_dataset.ipynb to download and preprocess [ModaNet dataset](https://arxiv.org/pdf/1807.01394.pdf).
 #### 3) Train models
 ```
