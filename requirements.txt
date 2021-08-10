@@ -1,0 +1,13 @@
+torch
+opencv-python
+maskrcnn_modanet
+dlib
+face_recognition
+pandas
+timm
+albumentations
+tqdm
+sklearn
+pyTelegramBotAPI
+faiss-cpu
+cmake
